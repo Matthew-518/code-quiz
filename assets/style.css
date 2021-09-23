@@ -37,7 +37,10 @@ header {
     border: 2px solid black;
     border-radius: 3px;
     font-size: 20px;
+}
 
+#view-scores:hover {
+    background-color: rgb(60, 60, 248); 
 }
 
 .timer {
@@ -94,14 +97,11 @@ header {
     margin-top: 15px;
     margin-bottom: 8px;
     cursor: pointer;
-    
 }
-/* input {
-    width: 13%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}  */
+
+.choices button:hover {
+    background-color: rgb(5, 5, 168);
+}
 
 .results {
     display: flex;
