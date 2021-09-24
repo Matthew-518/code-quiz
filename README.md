@@ -1,4 +1,3 @@
-# code-quiz
 
 ## Code Quiz
 
@@ -11,7 +10,7 @@ A website that allows you to test your knowledge of basic JavaScript
 *JavaScript
 
 ## Website
- https://matthew-518.github.io/code-quiz
+ https://matthew-518.github.io/code-quiz/
 
  ## Contribution
  Made by Matthew Hill 
